@@ -1,0 +1,544 @@
+classification,country,country_code,year,diet_type,cost
+Food Prices for Nutrition 2.1,Tunisia,TUN,2017.0,Energy sufficient,0.604
+Food Prices for Nutrition 2.1,Algeria,DZA,2017.0,Energy sufficient,0.773
+Food Prices for Nutrition 2.1,Mauritania,MRT,2017.0,Energy sufficient,0.877
+Food Prices for Nutrition 2.1,Cameroon,CMR,2017.0,Energy sufficient,0.894
+Food Prices for Nutrition 2.1,Central African Republic,CAF,2017.0,Energy sufficient,1.021
+Food Prices for Nutrition 2.1,Ghana,GHA,2017.0,Energy sufficient,0.824
+Food Prices for Nutrition 2.1,Guinea,GIN,2017.0,Energy sufficient,0.904
+Food Prices for Nutrition 2.1,Liberia,LBR,2017.0,Energy sufficient,0.971
+Food Prices for Nutrition 2.1,Malawi,MWI,2017.0,Energy sufficient,0.285
+Food Prices for Nutrition 2.1,Mali,MLI,2017.0,Energy sufficient,0.6
+Food Prices for Nutrition 2.1,Niger,NER,2017.0,Energy sufficient,0.608
+Food Prices for Nutrition 2.1,Uganda,UGA,2017.0,Energy sufficient,0.648
+Food Prices for Nutrition 2.1,Zambia,ZMB,2017.0,Energy sufficient,1.279
+Food Prices for Nutrition 2.1,Zimbabwe,ZWE,2017.0,Energy sufficient,0.239
+Food Prices for Nutrition 2.1,Sudan,SDN,2017.0,Energy sufficient,1.079
+Food Prices for Nutrition 2.1,Tanzania,TZA,2017.0,Energy sufficient,0.994
+Food Prices for Nutrition 2.1,South Africa,ZAF,2017.0,Energy sufficient,1.265
+Food Prices for Nutrition 2.1,Sri Lanka,LKA,2017.0,Energy sufficient,0.972
+Food Prices for Nutrition 2.1,Sub-Saharan Africa,SSF,2017.0,Energy sufficient,0.859
+Food Prices for Nutrition 2.1,Senegal,SEN,2017.0,Energy sufficient,0.745
+Food Prices for Nutrition 2.1,Rwanda,RWA,2017.0,Energy sufficient,0.763
+Food Prices for Nutrition 2.1,Sierra Leone,SLE,2017.0,Energy sufficient,1.243
+Food Prices for Nutrition 2.1,Nigeria,NGA,2017.0,Energy sufficient,1.382
+Food Prices for Nutrition 2.1,Namibia,NAM,2017.0,Energy sufficient,1.009
+Food Prices for Nutrition 2.1,Mozambique,MOZ,2017.0,Energy sufficient,0.383
+Food Prices for Nutrition 2.1,Mongolia,MNG,2017.0,Energy sufficient,0.743
+Food Prices for Nutrition 2.1,Middle East & North Africa,MEA,2017.0,Energy sufficient,0.737
+Food Prices for Nutrition 2.1,Kenya,KEN,2017.0,Energy sufficient,0.767
+Food Prices for Nutrition 2.1,Guinea-Bissau,GNB,2017.0,Energy sufficient,0.925
+Food Prices for Nutrition 2.1,"Egypt, Arab Rep.",EGY,2017.0,Energy sufficient,0.988
+Food Prices for Nutrition 2.1,"Congo, Rep.",COG,2017.0,Energy sufficient,0.987
+Food Prices for Nutrition 2.1,Chad,TCD,2017.0,Energy sufficient,0.709
+Food Prices for Nutrition 2.1,Cabo Verde,CPV,2017.0,Energy sufficient,0.62
+Food Prices for Nutrition 2.1,Burkina Faso,BFA,2017.0,Energy sufficient,0.574
+Food Prices for Nutrition 2.1,Angola,AGO,2017.0,Energy sufficient,1.403
+Food Prices for Nutrition 2.1,Albania,ALB,2017.0,Energy sufficient,0.725
+Food Prices for Nutrition 2.1,Anguilla,AIA,2017.0,Energy sufficient,1.308
+Food Prices for Nutrition 2.1,Antigua and Barbuda,ATG,2017.0,Energy sufficient,0.933
+Food Prices for Nutrition 2.1,Argentina,ARG,2017.0,Energy sufficient,0.652
+Food Prices for Nutrition 2.1,Armenia,ARM,2017.0,Energy sufficient,1.013
+Food Prices for Nutrition 2.1,Aruba,ABW,2017.0,Energy sufficient,1.13
+Food Prices for Nutrition 2.1,Australia,AUS,2017.0,Energy sufficient,0.307
+Food Prices for Nutrition 2.1,Austria,AUT,2017.0,Energy sufficient,0.346
+Food Prices for Nutrition 2.1,Azerbaijan,AZE,2017.0,Energy sufficient,0.789
+Food Prices for Nutrition 2.1,"Bahamas, The",BHS,2017.0,Energy sufficient,1.049
+Food Prices for Nutrition 2.1,Bahrain,BHR,2017.0,Energy sufficient,0.792
+Food Prices for Nutrition 2.1,Bangladesh,BGD,2017.0,Energy sufficient,0.644
+Food Prices for Nutrition 2.1,Belarus,BLR,2017.0,Energy sufficient,0.8
+Food Prices for Nutrition 2.1,Belgium,BEL,2017.0,Energy sufficient,0.263
+Food Prices for Nutrition 2.1,Belize,BLZ,2017.0,Energy sufficient,1.13
+Food Prices for Nutrition 2.1,Benin,BEN,2017.0,Energy sufficient,0.652
+Food Prices for Nutrition 2.1,Bermuda,BMU,2017.0,Energy sufficient,1.099
+Food Prices for Nutrition 2.1,Bhutan,BTN,2017.0,Energy sufficient,1.047
+Food Prices for Nutrition 2.1,Bolivia,BOL,2017.0,Energy sufficient,1.468
+Food Prices for Nutrition 2.1,Bosnia and Herzegovina,BIH,2017.0,Energy sufficient,0.691
+Food Prices for Nutrition 2.1,Botswana,BWA,2017.0,Energy sufficient,0.505
+Food Prices for Nutrition 2.1,Brazil,BRA,2017.0,Energy sufficient,0.848
+Food Prices for Nutrition 2.1,British Virgin Islands,VGB,2017.0,Energy sufficient,1.563
+Food Prices for Nutrition 2.1,Brunei Darussalam,BRN,2017.0,Energy sufficient,0.762
+Food Prices for Nutrition 2.1,Bulgaria,BGR,2017.0,Energy sufficient,0.504
+Food Prices for Nutrition 2.1,Burundi,BDI,2017.0,Energy sufficient,0.708
+Food Prices for Nutrition 2.1,Cambodia,KHM,2017.0,Energy sufficient,0.993
+Food Prices for Nutrition 2.1,Canada,CAN,2017.0,Energy sufficient,0.673
+Food Prices for Nutrition 2.1,Cayman Islands,CYM,2017.0,Energy sufficient,1.095
+Food Prices for Nutrition 2.1,Chile,CHL,2017.0,Energy sufficient,0.644
+Food Prices for Nutrition 2.1,China,CHN,2017.0,Energy sufficient,0.848
+Food Prices for Nutrition 2.1,Colombia,COL,2017.0,Energy sufficient,0.991
+Food Prices for Nutrition 2.1,"Congo, Dem. Rep.",COD,2017.0,Energy sufficient,0.56
+Food Prices for Nutrition 2.1,Costa Rica,CRI,2017.0,Energy sufficient,0.973
+Food Prices for Nutrition 2.1,Côte d'Ivoire,CIV,2017.0,Energy sufficient,0.815
+Food Prices for Nutrition 2.1,Croatia,HRV,2017.0,Energy sufficient,0.663
+Food Prices for Nutrition 2.1,Curacao,CUW,2017.0,Energy sufficient,1.137
+Food Prices for Nutrition 2.1,Cyprus,CYP,2017.0,Energy sufficient,0.577
+Food Prices for Nutrition 2.1,Czech Republic,CZE,2017.0,Energy sufficient,0.441
+Food Prices for Nutrition 2.1,Denmark,DNK,2017.0,Energy sufficient,0.3
+Food Prices for Nutrition 2.1,Djibouti,DJI,2017.0,Energy sufficient,0.616
+Food Prices for Nutrition 2.1,Dominica,DMA,2017.0,Energy sufficient,1.217
+Food Prices for Nutrition 2.1,Dominican Republic,DOM,2017.0,Energy sufficient,1.181
+Food Prices for Nutrition 2.1,East Asia & Pacific,EAS,2017.0,Energy sufficient,0.973
+Food Prices for Nutrition 2.1,Ecuador,ECU,2017.0,Energy sufficient,1.348
+Food Prices for Nutrition 2.1,Equatorial Guinea,GNQ,2017.0,Energy sufficient,0.768
+Food Prices for Nutrition 2.1,Estonia,EST,2017.0,Energy sufficient,0.418
+Food Prices for Nutrition 2.1,Eswatini,SWZ,2017.0,Energy sufficient,0.931
+Food Prices for Nutrition 2.1,Ethiopia,ETH,2017.0,Energy sufficient,0.721
+Food Prices for Nutrition 2.1,Europe & Central Asia,ECS,2017.0,Energy sufficient,0.545
+Food Prices for Nutrition 2.1,Fiji,FJI,2017.0,Energy sufficient,0.849
+Food Prices for Nutrition 2.1,Finland,FIN,2017.0,Energy sufficient,0.28
+Food Prices for Nutrition 2.1,France,FRA,2017.0,Energy sufficient,0.315
+Food Prices for Nutrition 2.1,Gabon,GAB,2017.0,Energy sufficient,0.956
+Food Prices for Nutrition 2.1,"Gambia, The",GMB,2017.0,Energy sufficient,0.983
+Food Prices for Nutrition 2.1,Germany,DEU,2017.0,Energy sufficient,0.262
+Food Prices for Nutrition 2.1,Greece,GRC,2017.0,Energy sufficient,0.672
+Food Prices for Nutrition 2.1,Grenada,GRD,2017.0,Energy sufficient,1.328
+Food Prices for Nutrition 2.1,Guyana,GUY,2017.0,Energy sufficient,0.727
+Food Prices for Nutrition 2.1,Haiti,HTI,2017.0,Energy sufficient,1.095
+Food Prices for Nutrition 2.1,High income,HIC,2017.0,Energy sufficient,0.712
+Food Prices for Nutrition 2.1,Honduras,HND,2017.0,Energy sufficient,1.146
+Food Prices for Nutrition 2.1,"Hong Kong SAR, China",HKG,2017.0,Energy sufficient,0.908
+Food Prices for Nutrition 2.1,Hungary,HUN,2017.0,Energy sufficient,0.434
+Food Prices for Nutrition 2.1,Iceland,ISL,2017.0,Energy sufficient,0.378
+Food Prices for Nutrition 2.1,India,IND,2017.0,Energy sufficient,0.789
+Food Prices for Nutrition 2.1,Indonesia,IDN,2017.0,Energy sufficient,1.021
+Food Prices for Nutrition 2.1,"Iran, Islamic Rep.",IRN,2017.0,Energy sufficient,0.871
+Food Prices for Nutrition 2.1,Iraq,IRQ,2017.0,Energy sufficient,1.165
+Food Prices for Nutrition 2.1,Ireland,IRL,2017.0,Energy sufficient,0.568
+Food Prices for Nutrition 2.1,Israel,ISR,2017.0,Energy sufficient,0.503
+Food Prices for Nutrition 2.1,Italy,ITA,2017.0,Energy sufficient,0.312
+Food Prices for Nutrition 2.1,Jamaica,JAM,2017.0,Energy sufficient,1.015
+Food Prices for Nutrition 2.1,Japan,JPN,2017.0,Energy sufficient,2.958
+Food Prices for Nutrition 2.1,Jordan,JOR,2017.0,Energy sufficient,0.643
+Food Prices for Nutrition 2.1,Kazakhstan,KAZ,2017.0,Energy sufficient,0.653
+Food Prices for Nutrition 2.1,"Korea, Rep.",KOR,2017.0,Energy sufficient,0.669
+Food Prices for Nutrition 2.1,Kuwait,KWT,2017.0,Energy sufficient,0.341
+Food Prices for Nutrition 2.1,Kyrgyz Republic,KGZ,2017.0,Energy sufficient,0.965
+Food Prices for Nutrition 2.1,Lao PDR,LAO,2017.0,Energy sufficient,0.724
+Food Prices for Nutrition 2.1,Latin America & Caribbean,LCN,2017.0,Energy sufficient,1.09
+Food Prices for Nutrition 2.1,Latvia,LVA,2017.0,Energy sufficient,0.442
+Food Prices for Nutrition 2.1,Lesotho,LSO,2017.0,Energy sufficient,0.608
+Food Prices for Nutrition 2.1,Lithuania,LTU,2017.0,Energy sufficient,0.505
+Food Prices for Nutrition 2.1,Low income,LIC,2017.0,Energy sufficient,0.856
+Food Prices for Nutrition 2.1,Lower middle income,LMC,2017.0,Energy sufficient,0.921
+Food Prices for Nutrition 2.1,Luxembourg,LUX,2017.0,Energy sufficient,0.335
+Food Prices for Nutrition 2.1,Madagascar,MDG,2017.0,Energy sufficient,1.079
+Food Prices for Nutrition 2.1,Malaysia,MYS,2017.0,Energy sufficient,0.909
+Food Prices for Nutrition 2.1,Maldives,MDV,2017.0,Energy sufficient,0.423
+Food Prices for Nutrition 2.1,Malta,MLT,2017.0,Energy sufficient,0.741
+Food Prices for Nutrition 2.1,Mauritius,MUS,2017.0,Energy sufficient,0.814
+Food Prices for Nutrition 2.1,Mexico,MEX,2017.0,Energy sufficient,0.643
+Food Prices for Nutrition 2.1,Moldova,MDA,2017.0,Energy sufficient,0.802
+Food Prices for Nutrition 2.1,Montenegro,MNE,2017.0,Energy sufficient,0.551
+Food Prices for Nutrition 2.1,Montserrat,MSR,2017.0,Energy sufficient,1.381
+Food Prices for Nutrition 2.1,Morocco,MAR,2017.0,Energy sufficient,0.608
+Food Prices for Nutrition 2.1,Myanmar,MMR,2017.0,Energy sufficient,0.91
+Food Prices for Nutrition 2.1,Nepal,NPL,2017.0,Energy sufficient,0.987
+Food Prices for Nutrition 2.1,Netherlands,NLD,2017.0,Energy sufficient,0.297
+Food Prices for Nutrition 2.1,New Zealand,NZL,2017.0,Energy sufficient,0.489
+Food Prices for Nutrition 2.1,Nicaragua,NIC,2017.0,Energy sufficient,1.436
+Food Prices for Nutrition 2.1,North America,NAC,2017.0,Energy sufficient,0.892
+Food Prices for Nutrition 2.1,North Macedonia,MKD,2017.0,Energy sufficient,0.73
+Food Prices for Nutrition 2.1,Norway,NOR,2017.0,Energy sufficient,1.122
+Food Prices for Nutrition 2.1,Oman,OMN,2017.0,Energy sufficient,0.522
+Food Prices for Nutrition 2.1,Pakistan,PAK,2017.0,Energy sufficient,0.768
+Food Prices for Nutrition 2.1,Panama,PAN,2017.0,Energy sufficient,1.128
+Food Prices for Nutrition 2.1,Paraguay,PRY,2017.0,Energy sufficient,0.95
+Food Prices for Nutrition 2.1,Peru,PER,2017.0,Energy sufficient,0.916
+Food Prices for Nutrition 2.1,Philippines,PHL,2017.0,Energy sufficient,1.158
+Food Prices for Nutrition 2.1,Poland,POL,2017.0,Energy sufficient,0.39
+Food Prices for Nutrition 2.1,Portugal,PRT,2017.0,Energy sufficient,0.412
+Food Prices for Nutrition 2.1,Qatar,QAT,2017.0,Energy sufficient,0.602
+Food Prices for Nutrition 2.1,Romania,ROU,2017.0,Energy sufficient,0.489
+Food Prices for Nutrition 2.1,Russian Federation,RUS,2017.0,Energy sufficient,0.606
+Food Prices for Nutrition 2.1,Sao Tome and Principe,STP,2017.0,Energy sufficient,0.896
+Food Prices for Nutrition 2.1,Saudi Arabia,SAU,2017.0,Energy sufficient,0.883
+Food Prices for Nutrition 2.1,Serbia,SRB,2017.0,Energy sufficient,0.601
+Food Prices for Nutrition 2.1,Seychelles,SYC,2017.0,Energy sufficient,0.634
+Food Prices for Nutrition 2.1,Singapore,SGP,2017.0,Energy sufficient,0.751
+Food Prices for Nutrition 2.1,Sint Maarten (Dutch part),SXM,2017.0,Energy sufficient,2.251
+Food Prices for Nutrition 2.1,Slovak Republic,SVK,2017.0,Energy sufficient,0.363
+Food Prices for Nutrition 2.1,Slovenia,SVN,2017.0,Energy sufficient,0.434
+Food Prices for Nutrition 2.1,South Asia,SAS,2017.0,Energy sufficient,0.804
+Food Prices for Nutrition 2.1,Spain,ESP,2017.0,Energy sufficient,0.438
+Food Prices for Nutrition 2.1,St. Kitts and Nevis,KNA,2017.0,Energy sufficient,0.533
+Food Prices for Nutrition 2.1,St. Lucia,LCA,2017.0,Energy sufficient,1.05
+Food Prices for Nutrition 2.1,St. Vincent and the Grenadines,VCT,2017.0,Energy sufficient,1.322
+Food Prices for Nutrition 2.1,Suriname,SUR,2017.0,Energy sufficient,1.142
+Food Prices for Nutrition 2.1,Sweden,SWE,2017.0,Energy sufficient,0.8
+Food Prices for Nutrition 2.1,Switzerland,CHE,2017.0,Energy sufficient,0.418
+Food Prices for Nutrition 2.1,"Taiwan, China",TWN,2017.0,Energy sufficient,1.459
+Food Prices for Nutrition 2.1,Tajikistan,TJK,2017.0,Energy sufficient,0.912
+Food Prices for Nutrition 2.1,Thailand,THA,2017.0,Energy sufficient,1.047
+Food Prices for Nutrition 2.1,Trinidad and Tobago,TTO,2017.0,Energy sufficient,1.009
+Food Prices for Nutrition 2.1,Türkiye,TUR,2017.0,Energy sufficient,0.709
+Food Prices for Nutrition 2.1,Turks and Caicos Islands,TCA,2017.0,Energy sufficient,1.128
+Food Prices for Nutrition 2.1,United Arab Emirates,ARE,2017.0,Energy sufficient,0.746
+Food Prices for Nutrition 2.1,United Kingdom,GBR,2017.0,Energy sufficient,0.263
+Food Prices for Nutrition 2.1,United States,USA,2017.0,Energy sufficient,0.905
+Food Prices for Nutrition 2.1,Upper middle income,UMC,2017.0,Energy sufficient,0.879
+Food Prices for Nutrition 2.1,Uruguay,URY,2017.0,Energy sufficient,0.694
+Food Prices for Nutrition 2.1,Vietnam,VNM,2017.0,Energy sufficient,0.975
+Food Prices for Nutrition 2.1,West Bank and Gaza,PSE,2017.0,Energy sufficient,1.124
+Food Prices for Nutrition 2.1,WORLD,WLD,2017.0,Energy sufficient,0.825
+Food Prices for Nutrition 2.1,Tunisia,TUN,2017.0,Nutrient adequate,1.88
+Food Prices for Nutrition 2.1,Algeria,DZA,2017.0,Nutrient adequate,2.323
+Food Prices for Nutrition 2.1,Mauritania,MRT,2017.0,Nutrient adequate,2.814
+Food Prices for Nutrition 2.1,Cameroon,CMR,2017.0,Nutrient adequate,2.065
+Food Prices for Nutrition 2.1,Central African Republic,CAF,2017.0,Nutrient adequate,1.706
+Food Prices for Nutrition 2.1,Ghana,GHA,2017.0,Nutrient adequate,2.516
+Food Prices for Nutrition 2.1,Guinea,GIN,2017.0,Nutrient adequate,2.215
+Food Prices for Nutrition 2.1,Liberia,LBR,2017.0,Nutrient adequate,2.982
+Food Prices for Nutrition 2.1,Malawi,MWI,2017.0,Nutrient adequate,1.616
+Food Prices for Nutrition 2.1,Mali,MLI,2017.0,Nutrient adequate,1.985
+Food Prices for Nutrition 2.1,Niger,NER,2017.0,Nutrient adequate,1.658
+Food Prices for Nutrition 2.1,Uganda,UGA,2017.0,Nutrient adequate,1.8
+Food Prices for Nutrition 2.1,Zambia,ZMB,2017.0,Nutrient adequate,2.38
+Food Prices for Nutrition 2.1,Zimbabwe,ZWE,2017.0,Nutrient adequate,0.709
+Food Prices for Nutrition 2.1,Sudan,SDN,2017.0,Nutrient adequate,2.089
+Food Prices for Nutrition 2.1,Tanzania,TZA,2017.0,Nutrient adequate,1.944
+Food Prices for Nutrition 2.1,South Africa,ZAF,2017.0,Nutrient adequate,3.407
+Food Prices for Nutrition 2.1,Sri Lanka,LKA,2017.0,Nutrient adequate,2.228
+Food Prices for Nutrition 2.1,Sub-Saharan Africa,SSF,2017.0,Nutrient adequate,2.192
+Food Prices for Nutrition 2.1,Senegal,SEN,2017.0,Nutrient adequate,1.858
+Food Prices for Nutrition 2.1,Rwanda,RWA,2017.0,Nutrient adequate,1.311
+Food Prices for Nutrition 2.1,Sierra Leone,SLE,2017.0,Nutrient adequate,2.201
+Food Prices for Nutrition 2.1,Nigeria,NGA,2017.0,Nutrient adequate,2.115
+Food Prices for Nutrition 2.1,Namibia,NAM,2017.0,Nutrient adequate,1.839
+Food Prices for Nutrition 2.1,Mozambique,MOZ,2017.0,Nutrient adequate,1.969
+Food Prices for Nutrition 2.1,Mongolia,MNG,2017.0,Nutrient adequate,2.259
+Food Prices for Nutrition 2.1,Middle East & North Africa,MEA,2017.0,Nutrient adequate,2.032
+Food Prices for Nutrition 2.1,Kenya,KEN,2017.0,Nutrient adequate,1.851
+Food Prices for Nutrition 2.1,Guinea-Bissau,GNB,2017.0,Nutrient adequate,1.857
+Food Prices for Nutrition 2.1,"Egypt, Arab Rep.",EGY,2017.0,Nutrient adequate,2.29
+Food Prices for Nutrition 2.1,"Congo, Rep.",COG,2017.0,Nutrient adequate,2.576
+Food Prices for Nutrition 2.1,Chad,TCD,2017.0,Nutrient adequate,1.761
+Food Prices for Nutrition 2.1,Cabo Verde,CPV,2017.0,Nutrient adequate,2.522
+Food Prices for Nutrition 2.1,Burkina Faso,BFA,2017.0,Nutrient adequate,2.538
+Food Prices for Nutrition 2.1,Angola,AGO,2017.0,Nutrient adequate,3.231
+Food Prices for Nutrition 2.1,Albania,ALB,2017.0,Nutrient adequate,2.471
+Food Prices for Nutrition 2.1,Anguilla,AIA,2017.0,Nutrient adequate,2.433
+Food Prices for Nutrition 2.1,Antigua and Barbuda,ATG,2017.0,Nutrient adequate,3.017
+Food Prices for Nutrition 2.1,Argentina,ARG,2017.0,Nutrient adequate,2.625
+Food Prices for Nutrition 2.1,Armenia,ARM,2017.0,Nutrient adequate,2.208
+Food Prices for Nutrition 2.1,Aruba,ABW,2017.0,Nutrient adequate,2.835
+Food Prices for Nutrition 2.1,Australia,AUS,2017.0,Nutrient adequate,1.595
+Food Prices for Nutrition 2.1,Austria,AUT,2017.0,Nutrient adequate,2.256
+Food Prices for Nutrition 2.1,Azerbaijan,AZE,2017.0,Nutrient adequate,1.836
+Food Prices for Nutrition 2.1,"Bahamas, The",BHS,2017.0,Nutrient adequate,4.683
+Food Prices for Nutrition 2.1,Bahrain,BHR,2017.0,Nutrient adequate,2.829
+Food Prices for Nutrition 2.1,Bangladesh,BGD,2017.0,Nutrient adequate,1.947
+Food Prices for Nutrition 2.1,Belarus,BLR,2017.0,Nutrient adequate,2.161
+Food Prices for Nutrition 2.1,Belgium,BEL,2017.0,Nutrient adequate,2.406
+Food Prices for Nutrition 2.1,Belize,BLZ,2017.0,Nutrient adequate,2.803
+Food Prices for Nutrition 2.1,Benin,BEN,2017.0,Nutrient adequate,2.498
+Food Prices for Nutrition 2.1,Bermuda,BMU,2017.0,Nutrient adequate,4.706
+Food Prices for Nutrition 2.1,Bhutan,BTN,2017.0,Nutrient adequate,2.802
+Food Prices for Nutrition 2.1,Bolivia,BOL,2017.0,Nutrient adequate,3.338
+Food Prices for Nutrition 2.1,Bosnia and Herzegovina,BIH,2017.0,Nutrient adequate,3.051
+Food Prices for Nutrition 2.1,Botswana,BWA,2017.0,Nutrient adequate,2.25
+Food Prices for Nutrition 2.1,Brazil,BRA,2017.0,Nutrient adequate,2.657
+Food Prices for Nutrition 2.1,British Virgin Islands,VGB,2017.0,Nutrient adequate,3.059
+Food Prices for Nutrition 2.1,Brunei Darussalam,BRN,2017.0,Nutrient adequate,2.376
+Food Prices for Nutrition 2.1,Bulgaria,BGR,2017.0,Nutrient adequate,2.768
+Food Prices for Nutrition 2.1,Burundi,BDI,2017.0,Nutrient adequate,1.589
+Food Prices for Nutrition 2.1,Cambodia,KHM,2017.0,Nutrient adequate,2.761
+Food Prices for Nutrition 2.1,Canada,CAN,2017.0,Nutrient adequate,2.111
+Food Prices for Nutrition 2.1,Cayman Islands,CYM,2017.0,Nutrient adequate,2.231
+Food Prices for Nutrition 2.1,Chile,CHL,2017.0,Nutrient adequate,2.179
+Food Prices for Nutrition 2.1,China,CHN,2017.0,Nutrient adequate,2.111
+Food Prices for Nutrition 2.1,Colombia,COL,2017.0,Nutrient adequate,2.526
+Food Prices for Nutrition 2.1,"Congo, Dem. Rep.",COD,2017.0,Nutrient adequate,2.049
+Food Prices for Nutrition 2.1,Costa Rica,CRI,2017.0,Nutrient adequate,2.824
+Food Prices for Nutrition 2.1,Côte d'Ivoire,CIV,2017.0,Nutrient adequate,1.619
+Food Prices for Nutrition 2.1,Croatia,HRV,2017.0,Nutrient adequate,3.211
+Food Prices for Nutrition 2.1,Curacao,CUW,2017.0,Nutrient adequate,2.396
+Food Prices for Nutrition 2.1,Cyprus,CYP,2017.0,Nutrient adequate,2.068
+Food Prices for Nutrition 2.1,Czech Republic,CZE,2017.0,Nutrient adequate,2.361
+Food Prices for Nutrition 2.1,Denmark,DNK,2017.0,Nutrient adequate,1.728
+Food Prices for Nutrition 2.1,Djibouti,DJI,2017.0,Nutrient adequate,2.459
+Food Prices for Nutrition 2.1,Dominica,DMA,2017.0,Nutrient adequate,3.478
+Food Prices for Nutrition 2.1,Dominican Republic,DOM,2017.0,Nutrient adequate,2.876
+Food Prices for Nutrition 2.1,East Asia & Pacific,EAS,2017.0,Nutrient adequate,2.62
+Food Prices for Nutrition 2.1,Ecuador,ECU,2017.0,Nutrient adequate,2.512
+Food Prices for Nutrition 2.1,Equatorial Guinea,GNQ,2017.0,Nutrient adequate,1.865
+Food Prices for Nutrition 2.1,Estonia,EST,2017.0,Nutrient adequate,2.554
+Food Prices for Nutrition 2.1,Eswatini,SWZ,2017.0,Nutrient adequate,2.244
+Food Prices for Nutrition 2.1,Ethiopia,ETH,2017.0,Nutrient adequate,2.004
+Food Prices for Nutrition 2.1,Europe & Central Asia,ECS,2017.0,Nutrient adequate,2.232
+Food Prices for Nutrition 2.1,Fiji,FJI,2017.0,Nutrient adequate,2.558
+Food Prices for Nutrition 2.1,Finland,FIN,2017.0,Nutrient adequate,2.465
+Food Prices for Nutrition 2.1,France,FRA,2017.0,Nutrient adequate,1.874
+Food Prices for Nutrition 2.1,Gabon,GAB,2017.0,Nutrient adequate,2.57
+Food Prices for Nutrition 2.1,"Gambia, The",GMB,2017.0,Nutrient adequate,2.529
+Food Prices for Nutrition 2.1,Germany,DEU,2017.0,Nutrient adequate,2.224
+Food Prices for Nutrition 2.1,Greece,GRC,2017.0,Nutrient adequate,2.557
+Food Prices for Nutrition 2.1,Grenada,GRD,2017.0,Nutrient adequate,3.767
+Food Prices for Nutrition 2.1,Guyana,GUY,2017.0,Nutrient adequate,3.606
+Food Prices for Nutrition 2.1,Haiti,HTI,2017.0,Nutrient adequate,2.929
+Food Prices for Nutrition 2.1,High income,HIC,2017.0,Nutrient adequate,2.411
+Food Prices for Nutrition 2.1,Honduras,HND,2017.0,Nutrient adequate,3.472
+Food Prices for Nutrition 2.1,"Hong Kong SAR, China",HKG,2017.0,Nutrient adequate,2.316
+Food Prices for Nutrition 2.1,Hungary,HUN,2017.0,Nutrient adequate,2.258
+Food Prices for Nutrition 2.1,Iceland,ISL,2017.0,Nutrient adequate,2.422
+Food Prices for Nutrition 2.1,India,IND,2017.0,Nutrient adequate,2.125
+Food Prices for Nutrition 2.1,Indonesia,IDN,2017.0,Nutrient adequate,2.664
+Food Prices for Nutrition 2.1,"Iran, Islamic Rep.",IRN,2017.0,Nutrient adequate,2.009
+Food Prices for Nutrition 2.1,Iraq,IRQ,2017.0,Nutrient adequate,2.505
+Food Prices for Nutrition 2.1,Ireland,IRL,2017.0,Nutrient adequate,2.026
+Food Prices for Nutrition 2.1,Israel,ISR,2017.0,Nutrient adequate,1.898
+Food Prices for Nutrition 2.1,Italy,ITA,2017.0,Nutrient adequate,2.226
+Food Prices for Nutrition 2.1,Jamaica,JAM,2017.0,Nutrient adequate,4.057
+Food Prices for Nutrition 2.1,Japan,JPN,2017.0,Nutrient adequate,3.557
+Food Prices for Nutrition 2.1,Jordan,JOR,2017.0,Nutrient adequate,1.61
+Food Prices for Nutrition 2.1,Kazakhstan,KAZ,2017.0,Nutrient adequate,1.753
+Food Prices for Nutrition 2.1,"Korea, Rep.",KOR,2017.0,Nutrient adequate,4.242
+Food Prices for Nutrition 2.1,Kuwait,KWT,2017.0,Nutrient adequate,1.791
+Food Prices for Nutrition 2.1,Kyrgyz Republic,KGZ,2017.0,Nutrient adequate,2.459
+Food Prices for Nutrition 2.1,Lao PDR,LAO,2017.0,Nutrient adequate,2.901
+Food Prices for Nutrition 2.1,Latin America & Caribbean,LCN,2017.0,Nutrient adequate,3.056
+Food Prices for Nutrition 2.1,Latvia,LVA,2017.0,Nutrient adequate,2.029
+Food Prices for Nutrition 2.1,Lesotho,LSO,2017.0,Nutrient adequate,2.306
+Food Prices for Nutrition 2.1,Lithuania,LTU,2017.0,Nutrient adequate,1.969
+Food Prices for Nutrition 2.1,Low income,LIC,2017.0,Nutrient adequate,2.054
+Food Prices for Nutrition 2.1,Lower middle income,LMC,2017.0,Nutrient adequate,2.467
+Food Prices for Nutrition 2.1,Luxembourg,LUX,2017.0,Nutrient adequate,2.038
+Food Prices for Nutrition 2.1,Madagascar,MDG,2017.0,Nutrient adequate,2.589
+Food Prices for Nutrition 2.1,Malaysia,MYS,2017.0,Nutrient adequate,2.384
+Food Prices for Nutrition 2.1,Maldives,MDV,2017.0,Nutrient adequate,2.686
+Food Prices for Nutrition 2.1,Malta,MLT,2017.0,Nutrient adequate,2.647
+Food Prices for Nutrition 2.1,Mauritius,MUS,2017.0,Nutrient adequate,2.519
+Food Prices for Nutrition 2.1,Mexico,MEX,2017.0,Nutrient adequate,2.483
+Food Prices for Nutrition 2.1,Moldova,MDA,2017.0,Nutrient adequate,1.683
+Food Prices for Nutrition 2.1,Montenegro,MNE,2017.0,Nutrient adequate,2.294
+Food Prices for Nutrition 2.1,Montserrat,MSR,2017.0,Nutrient adequate,3.684
+Food Prices for Nutrition 2.1,Morocco,MAR,2017.0,Nutrient adequate,1.912
+Food Prices for Nutrition 2.1,Myanmar,MMR,2017.0,Nutrient adequate,2.6
+Food Prices for Nutrition 2.1,Nepal,NPL,2017.0,Nutrient adequate,2.565
+Food Prices for Nutrition 2.1,Netherlands,NLD,2017.0,Nutrient adequate,1.771
+Food Prices for Nutrition 2.1,New Zealand,NZL,2017.0,Nutrient adequate,2.223
+Food Prices for Nutrition 2.1,Nicaragua,NIC,2017.0,Nutrient adequate,2.489
+Food Prices for Nutrition 2.1,North America,NAC,2017.0,Nutrient adequate,3.011
+Food Prices for Nutrition 2.1,North Macedonia,MKD,2017.0,Nutrient adequate,2.972
+Food Prices for Nutrition 2.1,Norway,NOR,2017.0,Nutrient adequate,2.849
+Food Prices for Nutrition 2.1,Oman,OMN,2017.0,Nutrient adequate,1.899
+Food Prices for Nutrition 2.1,Pakistan,PAK,2017.0,Nutrient adequate,1.946
+Food Prices for Nutrition 2.1,Panama,PAN,2017.0,Nutrient adequate,3.224
+Food Prices for Nutrition 2.1,Paraguay,PRY,2017.0,Nutrient adequate,3.886
+Food Prices for Nutrition 2.1,Peru,PER,2017.0,Nutrient adequate,2.24
+Food Prices for Nutrition 2.1,Philippines,PHL,2017.0,Nutrient adequate,2.82
+Food Prices for Nutrition 2.1,Poland,POL,2017.0,Nutrient adequate,1.925
+Food Prices for Nutrition 2.1,Portugal,PRT,2017.0,Nutrient adequate,1.835
+Food Prices for Nutrition 2.1,Qatar,QAT,2017.0,Nutrient adequate,1.173
+Food Prices for Nutrition 2.1,Romania,ROU,2017.0,Nutrient adequate,2.186
+Food Prices for Nutrition 2.1,Russian Federation,RUS,2017.0,Nutrient adequate,2.215
+Food Prices for Nutrition 2.1,Sao Tome and Principe,STP,2017.0,Nutrient adequate,2.569
+Food Prices for Nutrition 2.1,Saudi Arabia,SAU,2017.0,Nutrient adequate,1.752
+Food Prices for Nutrition 2.1,Serbia,SRB,2017.0,Nutrient adequate,2.669
+Food Prices for Nutrition 2.1,Seychelles,SYC,2017.0,Nutrient adequate,2.169
+Food Prices for Nutrition 2.1,Singapore,SGP,2017.0,Nutrient adequate,2.024
+Food Prices for Nutrition 2.1,Sint Maarten (Dutch part),SXM,2017.0,Nutrient adequate,3.944
+Food Prices for Nutrition 2.1,Slovak Republic,SVK,2017.0,Nutrient adequate,1.977
+Food Prices for Nutrition 2.1,Slovenia,SVN,2017.0,Nutrient adequate,2.015
+Food Prices for Nutrition 2.1,South Asia,SAS,2017.0,Nutrient adequate,2.328
+Food Prices for Nutrition 2.1,Spain,ESP,2017.0,Nutrient adequate,1.752
+Food Prices for Nutrition 2.1,St. Kitts and Nevis,KNA,2017.0,Nutrient adequate,2.994
+Food Prices for Nutrition 2.1,St. Lucia,LCA,2017.0,Nutrient adequate,2.651
+Food Prices for Nutrition 2.1,St. Vincent and the Grenadines,VCT,2017.0,Nutrient adequate,3.054
+Food Prices for Nutrition 2.1,Suriname,SUR,2017.0,Nutrient adequate,3.386
+Food Prices for Nutrition 2.1,Sweden,SWE,2017.0,Nutrient adequate,2.434
+Food Prices for Nutrition 2.1,Switzerland,CHE,2017.0,Nutrient adequate,2.101
+Food Prices for Nutrition 2.1,"Taiwan, China",TWN,2017.0,Nutrient adequate,2.996
+Food Prices for Nutrition 2.1,Tajikistan,TJK,2017.0,Nutrient adequate,2.345
+Food Prices for Nutrition 2.1,Thailand,THA,2017.0,Nutrient adequate,2.883
+Food Prices for Nutrition 2.1,Trinidad and Tobago,TTO,2017.0,Nutrient adequate,3.135
+Food Prices for Nutrition 2.1,Türkiye,TUR,2017.0,Nutrient adequate,2.286
+Food Prices for Nutrition 2.1,Turks and Caicos Islands,TCA,2017.0,Nutrient adequate,2.453
+Food Prices for Nutrition 2.1,United Arab Emirates,ARE,2017.0,Nutrient adequate,1.806
+Food Prices for Nutrition 2.1,United Kingdom,GBR,2017.0,Nutrient adequate,1.526
+Food Prices for Nutrition 2.1,United States,USA,2017.0,Nutrient adequate,2.215
+Food Prices for Nutrition 2.1,Upper middle income,UMC,2017.0,Nutrient adequate,2.628
+Food Prices for Nutrition 2.1,Uruguay,URY,2017.0,Nutrient adequate,2.129
+Food Prices for Nutrition 2.1,Vietnam,VNM,2017.0,Nutrient adequate,2.514
+Food Prices for Nutrition 2.1,West Bank and Gaza,PSE,2017.0,Nutrient adequate,1.761
+Food Prices for Nutrition 2.1,WORLD,WLD,2017.0,Nutrient adequate,2.441
+Food Prices for Nutrition 2.1,Tunisia,TUN,2017.0,Healthy,3.476
+Food Prices for Nutrition 2.1,Algeria,DZA,2017.0,Healthy,3.763
+Food Prices for Nutrition 2.1,Mauritania,MRT,2017.0,Healthy,3.451
+Food Prices for Nutrition 2.1,Cameroon,CMR,2017.0,Healthy,2.616
+Food Prices for Nutrition 2.1,Central African Republic,CAF,2017.0,Healthy,3.423
+Food Prices for Nutrition 2.1,Ghana,GHA,2017.0,Healthy,3.767
+Food Prices for Nutrition 2.1,Guinea,GIN,2017.0,Healthy,3.655
+Food Prices for Nutrition 2.1,Liberia,LBR,2017.0,Healthy,4.018
+Food Prices for Nutrition 2.1,Malawi,MWI,2017.0,Healthy,2.724
+Food Prices for Nutrition 2.1,Mali,MLI,2017.0,Healthy,2.9
+Food Prices for Nutrition 2.1,Niger,NER,2017.0,Healthy,2.85
+Food Prices for Nutrition 2.1,Uganda,UGA,2017.0,Healthy,2.749
+Food Prices for Nutrition 2.1,Zambia,ZMB,2017.0,Healthy,3.085
+Food Prices for Nutrition 2.1,Zimbabwe,ZWE,2017.0,Healthy,2.199685
+Food Prices for Nutrition 2.1,Sudan,SDN,2017.0,Healthy,3.674
+Food Prices for Nutrition 2.1,Tanzania,TZA,2017.0,Healthy,2.598
+Food Prices for Nutrition 2.1,South Africa,ZAF,2017.0,Healthy,4.102
+Food Prices for Nutrition 2.1,Sri Lanka,LKA,2017.0,Healthy,3.702
+Food Prices for Nutrition 2.1,Sub-Saharan Africa,SSF,2017.0,Healthy,3.219
+Food Prices for Nutrition 2.1,Senegal,SEN,2017.0,Healthy,2.19
+Food Prices for Nutrition 2.1,Rwanda,RWA,2017.0,Healthy,2.609
+Food Prices for Nutrition 2.1,Sierra Leone,SLE,2017.0,Healthy,2.842
+Food Prices for Nutrition 2.1,Nigeria,NGA,2017.0,Healthy,3.565
+Food Prices for Nutrition 2.1,Namibia,NAM,2017.0,Healthy,3.255
+Food Prices for Nutrition 2.1,Mozambique,MOZ,2017.0,Healthy,3.031
+Food Prices for Nutrition 2.1,Mongolia,MNG,2017.0,Healthy,4.544
+Food Prices for Nutrition 2.1,Middle East & North Africa,MEA,2017.0,Healthy,3.14
+Food Prices for Nutrition 2.1,Kenya,KEN,2017.0,Healthy,2.846
+Food Prices for Nutrition 2.1,Guinea-Bissau,GNB,2017.0,Healthy,3.164
+Food Prices for Nutrition 2.1,"Egypt, Arab Rep.",EGY,2017.0,Healthy,3.457
+Food Prices for Nutrition 2.1,"Congo, Rep.",COG,2017.0,Healthy,3.343
+Food Prices for Nutrition 2.1,Chad,TCD,2017.0,Healthy,2.831
+Food Prices for Nutrition 2.1,Cabo Verde,CPV,2017.0,Healthy,3.358
+Food Prices for Nutrition 2.1,Burkina Faso,BFA,2017.0,Healthy,3.173
+Food Prices for Nutrition 2.1,Angola,AGO,2017.0,Healthy,4.327
+Food Prices for Nutrition 2.1,Albania,ALB,2017.0,Healthy,3.952
+Food Prices for Nutrition 2.1,Anguilla,AIA,2017.0,Healthy,3.717
+Food Prices for Nutrition 2.1,Antigua and Barbuda,ATG,2017.0,Healthy,4.112
+Food Prices for Nutrition 2.1,Argentina,ARG,2017.0,Healthy,3.341
+Food Prices for Nutrition 2.1,Armenia,ARM,2017.0,Healthy,3.096
+Food Prices for Nutrition 2.1,Aruba,ABW,2017.0,Healthy,3.418
+Food Prices for Nutrition 2.1,Australia,AUS,2017.0,Healthy,2.259
+Food Prices for Nutrition 2.1,Austria,AUT,2017.0,Healthy,2.772
+Food Prices for Nutrition 2.1,Azerbaijan,AZE,2017.0,Healthy,2.348
+Food Prices for Nutrition 2.1,"Bahamas, The",BHS,2017.0,Healthy,4.276
+Food Prices for Nutrition 2.1,Bahrain,BHR,2017.0,Healthy,3.379
+Food Prices for Nutrition 2.1,Bangladesh,BGD,2017.0,Healthy,2.882
+Food Prices for Nutrition 2.1,Belarus,BLR,2017.0,Healthy,3.177
+Food Prices for Nutrition 2.1,Belgium,BEL,2017.0,Healthy,2.862
+Food Prices for Nutrition 2.1,Belize,BLZ,2017.0,Healthy,2.476
+Food Prices for Nutrition 2.1,Benin,BEN,2017.0,Healthy,3.55
+Food Prices for Nutrition 2.1,Bermuda,BMU,2017.0,Healthy,4.072
+Food Prices for Nutrition 2.1,Bhutan,BTN,2017.0,Healthy,4.383
+Food Prices for Nutrition 2.1,Bolivia,BOL,2017.0,Healthy,3.551
+Food Prices for Nutrition 2.1,Bosnia and Herzegovina,BIH,2017.0,Healthy,3.847
+Food Prices for Nutrition 2.1,Botswana,BWA,2017.0,Healthy,3.622
+Food Prices for Nutrition 2.1,Brazil,BRA,2017.0,Healthy,2.809
+Food Prices for Nutrition 2.1,British Virgin Islands,VGB,2017.0,Healthy,3.235
+Food Prices for Nutrition 2.1,Brunei Darussalam,BRN,2017.0,Healthy,4.126
+Food Prices for Nutrition 2.1,Bulgaria,BGR,2017.0,Healthy,3.78
+Food Prices for Nutrition 2.1,Burundi,BDI,2017.0,Healthy,2.988
+Food Prices for Nutrition 2.1,Cambodia,KHM,2017.0,Healthy,3.618
+Food Prices for Nutrition 2.1,Canada,CAN,2017.0,Healthy,2.863
+Food Prices for Nutrition 2.1,Cayman Islands,CYM,2017.0,Healthy,2.928
+Food Prices for Nutrition 2.1,Chile,CHL,2017.0,Healthy,3.053
+Food Prices for Nutrition 2.1,China,CHN,2017.0,Healthy,2.571
+Food Prices for Nutrition 2.1,Colombia,COL,2017.0,Healthy,2.863
+Food Prices for Nutrition 2.1,"Congo, Dem. Rep.",COD,2017.0,Healthy,2.921
+Food Prices for Nutrition 2.1,Costa Rica,CRI,2017.0,Healthy,3.961
+Food Prices for Nutrition 2.1,Côte d'Ivoire,CIV,2017.0,Healthy,3.273
+Food Prices for Nutrition 2.1,Croatia,HRV,2017.0,Healthy,4.168
+Food Prices for Nutrition 2.1,Curacao,CUW,2017.0,Healthy,2.866
+Food Prices for Nutrition 2.1,Cyprus,CYP,2017.0,Healthy,2.846
+Food Prices for Nutrition 2.1,Czech Republic,CZE,2017.0,Healthy,2.899
+Food Prices for Nutrition 2.1,Denmark,DNK,2017.0,Healthy,2.376
+Food Prices for Nutrition 2.1,Djibouti,DJI,2017.0,Healthy,2.797
+Food Prices for Nutrition 2.1,Dominica,DMA,2017.0,Healthy,4.0
+Food Prices for Nutrition 2.1,Dominican Republic,DOM,2017.0,Healthy,3.521
+Food Prices for Nutrition 2.1,East Asia & Pacific,EAS,2017.0,Healthy,3.7
+Food Prices for Nutrition 2.1,Ecuador,ECU,2017.0,Healthy,2.788
+Food Prices for Nutrition 2.1,Equatorial Guinea,GNQ,2017.0,Healthy,3.526
+Food Prices for Nutrition 2.1,Estonia,EST,2017.0,Healthy,3.125
+Food Prices for Nutrition 2.1,Eswatini,SWZ,2017.0,Healthy,3.428
+Food Prices for Nutrition 2.1,Ethiopia,ETH,2017.0,Healthy,3.108
+Food Prices for Nutrition 2.1,Europe & Central Asia,ECS,2017.0,Healthy,2.954
+Food Prices for Nutrition 2.1,Fiji,FJI,2017.0,Healthy,3.612
+Food Prices for Nutrition 2.1,Finland,FIN,2017.0,Healthy,2.545
+Food Prices for Nutrition 2.1,France,FRA,2017.0,Healthy,2.936
+Food Prices for Nutrition 2.1,Gabon,GAB,2017.0,Healthy,3.358
+Food Prices for Nutrition 2.1,"Gambia, The",GMB,2017.0,Healthy,2.942
+Food Prices for Nutrition 2.1,Germany,DEU,2017.0,Healthy,2.786
+Food Prices for Nutrition 2.1,Greece,GRC,2017.0,Healthy,3.037
+Food Prices for Nutrition 2.1,Grenada,GRD,2017.0,Healthy,5.382
+Food Prices for Nutrition 2.1,Guyana,GUY,2017.0,Healthy,4.629
+Food Prices for Nutrition 2.1,Haiti,HTI,2017.0,Healthy,3.93
+Food Prices for Nutrition 2.1,High income,HIC,2017.0,Healthy,3.152
+Food Prices for Nutrition 2.1,Honduras,HND,2017.0,Healthy,3.36
+Food Prices for Nutrition 2.1,"Hong Kong SAR, China",HKG,2017.0,Healthy,3.659
+Food Prices for Nutrition 2.1,Hungary,HUN,2017.0,Healthy,3.302
+Food Prices for Nutrition 2.1,Iceland,ISL,2017.0,Healthy,2.213
+Food Prices for Nutrition 2.1,India,IND,2017.0,Healthy,2.824
+Food Prices for Nutrition 2.1,Indonesia,IDN,2017.0,Healthy,4.129
+Food Prices for Nutrition 2.1,"Iran, Islamic Rep.",IRN,2017.0,Healthy,3.005
+Food Prices for Nutrition 2.1,Iraq,IRQ,2017.0,Healthy,3.378
+Food Prices for Nutrition 2.1,Ireland,IRL,2017.0,Healthy,2.397
+Food Prices for Nutrition 2.1,Israel,ISR,2017.0,Healthy,2.436
+Food Prices for Nutrition 2.1,Italy,ITA,2017.0,Healthy,2.885
+Food Prices for Nutrition 2.1,Jamaica,JAM,2017.0,Healthy,5.975
+Food Prices for Nutrition 2.1,Japan,JPN,2017.0,Healthy,5.529
+Food Prices for Nutrition 2.1,Jordan,JOR,2017.0,Healthy,3.412
+Food Prices for Nutrition 2.1,Kazakhstan,KAZ,2017.0,Healthy,2.391
+Food Prices for Nutrition 2.1,"Korea, Rep.",KOR,2017.0,Healthy,4.712
+Food Prices for Nutrition 2.1,Kuwait,KWT,2017.0,Healthy,3.344
+Food Prices for Nutrition 2.1,Kyrgyz Republic,KGZ,2017.0,Healthy,2.97
+Food Prices for Nutrition 2.1,Lao PDR,LAO,2017.0,Healthy,3.776
+Food Prices for Nutrition 2.1,Latin America & Caribbean,LCN,2017.0,Healthy,3.619
+Food Prices for Nutrition 2.1,Latvia,LVA,2017.0,Healthy,3.124
+Food Prices for Nutrition 2.1,Lesotho,LSO,2017.0,Healthy,3.77
+Food Prices for Nutrition 2.1,Lithuania,LTU,2017.0,Healthy,3.003
+Food Prices for Nutrition 2.1,Low income,LIC,2017.0,Healthy,3.084
+Food Prices for Nutrition 2.1,Lower middle income,LMC,2017.0,Healthy,3.397
+Food Prices for Nutrition 2.1,Luxembourg,LUX,2017.0,Healthy,2.492
+Food Prices for Nutrition 2.1,Madagascar,MDG,2017.0,Healthy,2.987
+Food Prices for Nutrition 2.1,Malaysia,MYS,2017.0,Healthy,3.224
+Food Prices for Nutrition 2.1,Maldives,MDV,2017.0,Healthy,3.581
+Food Prices for Nutrition 2.1,Malta,MLT,2017.0,Healthy,3.494
+Food Prices for Nutrition 2.1,Mauritius,MUS,2017.0,Healthy,3.313
+Food Prices for Nutrition 2.1,Mexico,MEX,2017.0,Healthy,2.993
+Food Prices for Nutrition 2.1,Moldova,MDA,2017.0,Healthy,2.46
+Food Prices for Nutrition 2.1,Montenegro,MNE,2017.0,Healthy,3.397
+Food Prices for Nutrition 2.1,Montserrat,MSR,2017.0,Healthy,4.883
+Food Prices for Nutrition 2.1,Morocco,MAR,2017.0,Healthy,2.71
+Food Prices for Nutrition 2.1,Myanmar,MMR,2017.0,Healthy,3.706
+Food Prices for Nutrition 2.1,Nepal,NPL,2017.0,Healthy,4.127
+Food Prices for Nutrition 2.1,Netherlands,NLD,2017.0,Healthy,2.743
+Food Prices for Nutrition 2.1,New Zealand,NZL,2017.0,Healthy,2.671
+Food Prices for Nutrition 2.1,Nicaragua,NIC,2017.0,Healthy,3.191
+Food Prices for Nutrition 2.1,North America,NAC,2017.0,Healthy,3.386
+Food Prices for Nutrition 2.1,North Macedonia,MKD,2017.0,Healthy,3.318
+Food Prices for Nutrition 2.1,Norway,NOR,2017.0,Healthy,3.325
+Food Prices for Nutrition 2.1,Oman,OMN,2017.0,Healthy,2.815
+Food Prices for Nutrition 2.1,Pakistan,PAK,2017.0,Healthy,3.408
+Food Prices for Nutrition 2.1,Panama,PAN,2017.0,Healthy,4.225
+Food Prices for Nutrition 2.1,Paraguay,PRY,2017.0,Healthy,3.43
+Food Prices for Nutrition 2.1,Peru,PER,2017.0,Healthy,3.084
+Food Prices for Nutrition 2.1,Philippines,PHL,2017.0,Healthy,3.843
+Food Prices for Nutrition 2.1,Poland,POL,2017.0,Healthy,2.909
+Food Prices for Nutrition 2.1,Portugal,PRT,2017.0,Healthy,2.513
+Food Prices for Nutrition 2.1,Qatar,QAT,2017.0,Healthy,2.375
+Food Prices for Nutrition 2.1,Romania,ROU,2017.0,Healthy,2.921
+Food Prices for Nutrition 2.1,Russian Federation,RUS,2017.0,Healthy,3.149
+Food Prices for Nutrition 2.1,Sao Tome and Principe,STP,2017.0,Healthy,3.288
+Food Prices for Nutrition 2.1,Saudi Arabia,SAU,2017.0,Healthy,3.441
+Food Prices for Nutrition 2.1,Serbia,SRB,2017.0,Healthy,4.07
+Food Prices for Nutrition 2.1,Seychelles,SYC,2017.0,Healthy,4.01
+Food Prices for Nutrition 2.1,Singapore,SGP,2017.0,Healthy,2.775
+Food Prices for Nutrition 2.1,Sint Maarten (Dutch part),SXM,2017.0,Healthy,4.462
+Food Prices for Nutrition 2.1,Slovak Republic,SVK,2017.0,Healthy,3.013
+Food Prices for Nutrition 2.1,Slovenia,SVN,2017.0,Healthy,2.798
+Food Prices for Nutrition 2.1,South Asia,SAS,2017.0,Healthy,3.558
+Food Prices for Nutrition 2.1,Spain,ESP,2017.0,Healthy,2.699
+Food Prices for Nutrition 2.1,St. Kitts and Nevis,KNA,2017.0,Healthy,2.998
+Food Prices for Nutrition 2.1,St. Lucia,LCA,2017.0,Healthy,3.263
+Food Prices for Nutrition 2.1,St. Vincent and the Grenadines,VCT,2017.0,Healthy,4.131
+Food Prices for Nutrition 2.1,Suriname,SUR,2017.0,Healthy,4.969
+Food Prices for Nutrition 2.1,Sweden,SWE,2017.0,Healthy,3.086
+Food Prices for Nutrition 2.1,Switzerland,CHE,2017.0,Healthy,2.523
+Food Prices for Nutrition 2.1,"Taiwan, China",TWN,2017.0,Healthy,3.99
+Food Prices for Nutrition 2.1,Tajikistan,TJK,2017.0,Healthy,3.027
+Food Prices for Nutrition 2.1,Thailand,THA,2017.0,Healthy,3.971
+Food Prices for Nutrition 2.1,Trinidad and Tobago,TTO,2017.0,Healthy,3.928
+Food Prices for Nutrition 2.1,Türkiye,TUR,2017.0,Healthy,2.873
+Food Prices for Nutrition 2.1,Turks and Caicos Islands,TCA,2017.0,Healthy,2.809
+Food Prices for Nutrition 2.1,United Arab Emirates,ARE,2017.0,Healthy,2.755
+Food Prices for Nutrition 2.1,United Kingdom,GBR,2017.0,Healthy,1.822
+Food Prices for Nutrition 2.1,United States,USA,2017.0,Healthy,3.225
+Food Prices for Nutrition 2.1,Upper middle income,UMC,2017.0,Healthy,3.498
+Food Prices for Nutrition 2.1,Uruguay,URY,2017.0,Healthy,3.073
+Food Prices for Nutrition 2.1,Vietnam,VNM,2017.0,Healthy,3.586
+Food Prices for Nutrition 2.1,West Bank and Gaza,PSE,2017.0,Healthy,3.342
+Food Prices for Nutrition 2.1,WORLD,WLD,2017.0,Healthy,3.295
