@@ -1,0 +1,156 @@
+classification,country,country_code,year,afford_energy,afford_nutrient,afford_healthy,pct_cannot_afford_energy,pct_cannot_afford_nutrient,pct_cannot_afford_healthy
+Food Prices for Nutrition 2.1,Tunisia,TUN,2017.0,0.111,0.346,0.64,0.0,1.9,15.5
+Food Prices for Nutrition 2.1,Algeria,DZA,2017.0,0.124,0.374,0.605,0.1,6.2,32.4
+Food Prices for Nutrition 2.1,Mauritania,MRT,2017.0,0.263,0.845,1.036,2.7,48.3,61.7
+Food Prices for Nutrition 2.1,Cameroon,CMR,2017.0,0.385,0.89,1.128,15.7,48.6,59.2
+Food Prices for Nutrition 2.1,Central African Republic,CAF,2017.0,0.823,1.376,2.761,64.1,83.3,95.7
+Food Prices for Nutrition 2.1,Ghana,GHA,2017.0,0.501,1.528,2.288,14.9,62.9,80.0
+Food Prices for Nutrition 2.1,Guinea,GIN,2017.0,0.246,0.603,0.995,8.6,61.6,88.5
+Food Prices for Nutrition 2.1,Liberia,LBR,2017.0,1.274,3.913,5.272,20.2,82.7,91.8
+Food Prices for Nutrition 2.1,Malawi,MWI,2017.0,0.219,1.243,2.095,2.4,83.2,94.5
+Food Prices for Nutrition 2.1,Mali,MLI,2017.0,0.233,0.77,1.126,2.0,57.9,77.4
+Food Prices for Nutrition 2.1,Niger,NER,2017.0,0.867,2.364,4.064,13.5,77.1,92.9
+Food Prices for Nutrition 2.1,Uganda,UGA,2017.0,0.426,1.183,1.807,13.9,68.9,84.5
+Food Prices for Nutrition 2.1,Zambia,ZMB,2017.0,0.755,1.405,1.821,64.9,83.0,88.7
+Food Prices for Nutrition 2.1,Zimbabwe,ZWE,2017.0,0.106,0.314,0.973,0.0,10.6,67.8
+Food Prices for Nutrition 2.1,Sudan,SDN,2017.0,0.242,0.468,0.824,15.3,58.7,88.4
+Food Prices for Nutrition 2.1,Tanzania,TZA,2017.0,0.374,0.731,0.976,36.8,75.6,85.9
+Food Prices for Nutrition 2.1,South Africa,ZAF,2017.0,0.293,0.789,0.95,24.2,60.3,65.3
+Food Prices for Nutrition 2.1,Sri Lanka,LKA,2017.0,0.176,0.404,0.671,0.6,22.6,56.3
+Food Prices for Nutrition 2.1,Sub-Saharan Africa,SSF,2017.0,0.385,0.975,1.445,25.0,67.9,84.5
+Food Prices for Nutrition 2.1,Senegal,SEN,2017.0,0.23,0.574,0.677,3.3,43.2,53.6
+Food Prices for Nutrition 2.1,Rwanda,RWA,2017.0,0.529,0.908,1.808,28.1,61.3,87.0
+Food Prices for Nutrition 2.1,Sierra Leone,SLE,2017.0,0.579,1.025,1.323,34.8,73.3,84.2
+Food Prices for Nutrition 2.1,Nigeria,NGA,2017.0,0.234,0.358,0.603,44.4,69.4,90.2
+Food Prices for Nutrition 2.1,Namibia,NAM,2017.0,0.304,0.553,0.979,13.9,33.6,55.4
+Food Prices for Nutrition 2.1,Mozambique,MOZ,2017.0,0.244,1.255,1.932,16.8,85.8,92.7
+Food Prices for Nutrition 2.1,Mongolia,MNG,2017.0,0.16,0.487,0.979,0.1,14.4,58.5
+Food Prices for Nutrition 2.1,Middle East & North Africa,MEA,2017.0,0.137,0.379,0.575,0.4,13.5,32.6
+Food Prices for Nutrition 2.1,Kenya,KEN,2017.0,0.213,0.514,0.79,12.9,60.8,80.2
+Food Prices for Nutrition 2.1,Guinea-Bissau,GNB,2017.0,0.261,0.524,0.893,18.3,59.7,84.4
+Food Prices for Nutrition 2.1,"Egypt, Arab Rep.",EGY,2017.0,0.082,0.189,0.286,1.0,33.7,67.5
+Food Prices for Nutrition 2.1,"Congo, Rep.",COG,2017.0,0.449,1.171,1.52,39.9,80.8,88.6
+Food Prices for Nutrition 2.1,Chad,TCD,2017.0,0.365,0.907,1.458,11.3,60.6,82.6
+Food Prices for Nutrition 2.1,Cabo Verde,CPV,2017.0,0.139,0.565,0.753,0.3,29.6,44.1
+Food Prices for Nutrition 2.1,Burkina Faso,BFA,2017.0,0.361,1.598,1.997,4.6,80.3,87.1
+Food Prices for Nutrition 2.1,Angola,AGO,2017.0,0.315,0.726,0.972,36.1,71.2,81.5
+Food Prices for Nutrition 2.1,Albania,ALB,2017.0,0.078,0.266,0.425,0.0,8.9,31.3
+Food Prices for Nutrition 2.1,Argentina,ARG,2017.0,0.077,0.31,0.395,0.2,4.0,6.8
+Food Prices for Nutrition 2.1,Armenia,ARM,2017.0,0.088,0.192,0.27,0.5,14.3,37.1
+Food Prices for Nutrition 2.1,Australia,AUS,2017.0,0.045,0.235,0.333,0.2,0.5,0.7
+Food Prices for Nutrition 2.1,Austria,AUT,2017.0,0.049,0.318,0.39,0.2,0.5,0.6
+Food Prices for Nutrition 2.1,Azerbaijan,AZE,2017.0,0.097,0.225,0.288,0.0,0.0,0.0
+Food Prices for Nutrition 2.1,Bangladesh,BGD,2017.0,0.145,0.438,0.648,0.8,52.0,77.7
+Food Prices for Nutrition 2.1,Belarus,BLR,2017.0,0.095,0.257,0.378,0.0,0.2,2.1
+Food Prices for Nutrition 2.1,Belgium,BEL,2017.0,0.032,0.291,0.347,0.1,0.3,0.3
+Food Prices for Nutrition 2.1,Belize,BLZ,2017.0,0.461,1.143,1.009,19.6,57.0,50.9
+Food Prices for Nutrition 2.1,Benin,BEN,2017.0,0.316,1.211,1.721,13.7,81.9,90.6
+Food Prices for Nutrition 2.1,Bhutan,BTN,2017.0,0.18,0.481,0.753,0.7,26.2,51.2
+Food Prices for Nutrition 2.1,Bolivia,BOL,2017.0,0.258,0.586,0.624,6.8,19.1,20.9
+Food Prices for Nutrition 2.1,Bosnia and Herzegovina,BIH,2017.0,0.087,0.386,0.487,0.0,2.3,4.6
+Food Prices for Nutrition 2.1,Botswana,BWA,2017.0,0.038,0.17,0.274,1.3,44.3,63.2
+Food Prices for Nutrition 2.1,Brazil,BRA,2017.0,0.191,0.599,0.634,3.5,18.1,19.6
+Food Prices for Nutrition 2.1,Bulgaria,BGR,2017.0,0.077,0.422,0.576,0.3,6.3,10.6
+Food Prices for Nutrition 2.1,Burundi,BDI,2017.0,0.808,1.814,3.412,41.5,84.1,95.8
+Food Prices for Nutrition 2.1,Canada,CAN,2017.0,0.106,0.333,0.451,0.0,0.5,0.7
+Food Prices for Nutrition 2.1,Chile,CHL,2017.0,0.104,0.35,0.491,0.2,1.6,4.6
+Food Prices for Nutrition 2.1,China,CHN,2017.0,0.308,0.767,0.935,0.2,9.7,16.6
+Food Prices for Nutrition 2.1,Colombia,COL,2017.0,0.223,0.569,0.645,3.5,20.3,24.8
+Food Prices for Nutrition 2.1,"Congo, Dem. Rep.",COD,2017.0,0.36,1.318,1.878,28.0,87.0,94.2
+Food Prices for Nutrition 2.1,Costa Rica,CRI,2017.0,0.158,0.458,0.642,0.7,7.8,16.0
+Food Prices for Nutrition 2.1,Côte d'Ivoire,CIV,2017.0,0.258,0.513,1.038,7.7,37.7,76.6
+Food Prices for Nutrition 2.1,Croatia,HRV,2017.0,0.077,0.371,0.481,0.3,3.3,6.1
+Food Prices for Nutrition 2.1,Cyprus,CYP,2017.0,0.095,0.34,0.468,0.0,0.1,0.1
+Food Prices for Nutrition 2.1,Czech Republic,CZE,2017.0,0.058,0.313,0.384,0.0,0.1,0.2
+Food Prices for Nutrition 2.1,Denmark,DNK,2017.0,0.044,0.253,0.348,0.1,0.2,0.2
+Food Prices for Nutrition 2.1,Djibouti,DJI,2017.0,0.257,1.026,1.167,5.6,59.0,65.8
+Food Prices for Nutrition 2.1,Dominican Republic,DOM,2017.0,0.152,0.371,0.455,1.3,15.8,24.9
+Food Prices for Nutrition 2.1,East Asia & Pacific,EAS,2017.0,0.174,0.488,0.685,1.1,16.4,26.1
+Food Prices for Nutrition 2.1,Ecuador,ECU,2017.0,0.314,0.586,0.65,4.4,14.8,17.6
+Food Prices for Nutrition 2.1,Estonia,EST,2017.0,0.05,0.304,0.372,0.2,0.8,1.0
+Food Prices for Nutrition 2.1,Eswatini,SWZ,2017.0,0.153,0.368,0.562,26.6,64.4,77.1
+Food Prices for Nutrition 2.1,Ethiopia,ETH,2017.0,0.508,1.411,2.188,7.7,62.7,85.8
+Food Prices for Nutrition 2.1,Europe & Central Asia,ECS,2017.0,0.078,0.309,0.406,0.2,2.0,3.8
+Food Prices for Nutrition 2.1,Fiji,FJI,2017.0,0.11,0.331,0.468,0.2,21.3,44.9
+Food Prices for Nutrition 2.1,Finland,FIN,2017.0,0.039,0.347,0.358,0.1,0.1,0.1
+Food Prices for Nutrition 2.1,France,FRA,2017.0,0.04,0.238,0.373,0.0,0.0,0.1
+Food Prices for Nutrition 2.1,Gabon,GAB,2017.0,0.22,0.592,0.773,1.3,16.3,28.5
+Food Prices for Nutrition 2.1,"Gambia, The",GMB,2017.0,0.39,1.003,1.167,10.6,63.9,72.6
+Food Prices for Nutrition 2.1,Germany,DEU,2017.0,0.036,0.307,0.384,0.2,0.7,0.7
+Food Prices for Nutrition 2.1,Greece,GRC,2017.0,0.076,0.291,0.345,0.5,2.5,3.8
+Food Prices for Nutrition 2.1,Guyana,GUY,2017.0,0.185,0.918,1.179,4.4,31.7,45.0
+Food Prices for Nutrition 2.1,Haiti,HTI,2017.0,0.411,1.1,1.476,23.5,73.8,84.7
+Food Prices for Nutrition 2.1,High income,HIC,2017.0,0.106,0.351,0.455,0.6,1.2,1.9
+Food Prices for Nutrition 2.1,Honduras,HND,2017.0,0.326,0.988,0.956,14.3,49.9,48.5
+Food Prices for Nutrition 2.1,Hungary,HUN,2017.0,0.065,0.336,0.491,0.3,1.9,3.7
+Food Prices for Nutrition 2.1,Iceland,ISL,2017.0,0.042,0.271,0.247,0.0,0.0,0.0
+Food Prices for Nutrition 2.1,India,IND,2017.0,0.274,0.737,0.979,3.2,64.0,78.8
+Food Prices for Nutrition 2.1,Indonesia,IDN,2017.0,0.209,0.545,0.844,4.3,7.0,72.8
+Food Prices for Nutrition 2.1,"Iran, Islamic Rep.",IRN,2017.0,0.218,0.503,0.753,0.2,4.7,13.9
+Food Prices for Nutrition 2.1,Iraq,IRQ,2017.0,0.25,0.538,0.726,0.1,5.8,16.8
+Food Prices for Nutrition 2.1,Ireland,IRL,2017.0,0.116,0.415,0.491,0.2,0.3,0.4
+Food Prices for Nutrition 2.1,Israel,ISR,2017.0,0.062,0.233,0.299,0.2,1.2,1.9
+Food Prices for Nutrition 2.1,Italy,ITA,2017.0,0.035,0.251,0.325,1.0,2.1,2.8
+Food Prices for Nutrition 2.1,Jamaica,JAM,2017.0,0.156,0.623,0.917,0.9,36.6,57.9
+Food Prices for Nutrition 2.1,Japan,JPN,2017.0,0.343,0.412,0.64,1.2,1.4,2.7
+Food Prices for Nutrition 2.1,Jordan,JOR,2017.0,0.138,0.345,0.732,0.0,0.6,15.2
+Food Prices for Nutrition 2.1,Kazakhstan,KAZ,2017.0,0.077,0.207,0.283,0.0,0.5,2.5
+Food Prices for Nutrition 2.1,"Korea, Rep.",KOR,2017.0,0.129,0.817,0.908,0.0,1.5,2.2
+Food Prices for Nutrition 2.1,Kyrgyz Republic,KGZ,2017.0,0.22,0.56,0.676,0.7,38.9,56.4
+Food Prices for Nutrition 2.1,Lao PDR,LAO,2017.0,0.171,0.687,0.894,0.8,61.1,75.3
+Food Prices for Nutrition 2.1,Latin America & Caribbean,LCN,2017.0,0.225,0.617,0.721,3.0,17.9,22.0
+Food Prices for Nutrition 2.1,Latvia,LVA,2017.0,0.06,0.278,0.428,0.2,1.7,3.4
+Food Prices for Nutrition 2.1,Lesotho,LSO,2017.0,0.236,0.895,1.463,10.7,63.1,83.1
+Food Prices for Nutrition 2.1,Lithuania,LTU,2017.0,0.044,0.173,0.263,0.8,1.6,3.3
+Food Prices for Nutrition 2.1,Low income,LIC,2017.0,0.548,1.344,2.022,20.8,73.6,89.1
+Food Prices for Nutrition 2.1,Lower middle income,LMC,2017.0,0.248,0.672,0.937,6.8,52.9,72.5
+Food Prices for Nutrition 2.1,Luxembourg,LUX,2017.0,0.04,0.244,0.298,0.1,0.4,0.4
+Food Prices for Nutrition 2.1,Madagascar,MDG,2017.0,0.588,1.41,1.627,78.3,96.0,97.1
+Food Prices for Nutrition 2.1,Malaysia,MYS,2017.0,0.104,0.274,0.371,0.0,0.9,3.0
+Food Prices for Nutrition 2.1,Maldives,MDV,2017.0,0.145,0.919,1.225,0.0,0.6,3.4
+Food Prices for Nutrition 2.1,Malta,MLT,2017.0,0.109,0.388,0.512,0.1,0.3,0.3
+Food Prices for Nutrition 2.1,Mauritius,MUS,2017.0,0.078,0.242,0.318,0.0,4.4,10.9
+Food Prices for Nutrition 2.1,Mexico,MEX,2017.0,0.082,0.315,0.38,0.7,17.2,24.3
+Food Prices for Nutrition 2.1,Moldova,MDA,2017.0,0.116,0.243,0.355,0.0,0.3,3.5
+Food Prices for Nutrition 2.1,Montenegro,MNE,2017.0,0.05,0.209,0.31,1.6,9.1,15.9
+Food Prices for Nutrition 2.1,Morocco,MAR,2017.0,0.144,0.452,0.641,0.1,8.6,22.2
+Food Prices for Nutrition 2.1,Myanmar,MMR,2017.0,0.254,0.726,1.034,0.7,42.7,71.0
+Food Prices for Nutrition 2.1,Nepal,NPL,2017.0,0.253,0.657,1.057,2.6,51.0,80.4
+Food Prices for Nutrition 2.1,Netherlands,NLD,2017.0,0.043,0.254,0.394,0.0,0.3,0.4
+Food Prices for Nutrition 2.1,Nicaragua,NIC,2017.0,0.421,0.729,0.935,5.7,21.2,32.3
+Food Prices for Nutrition 2.1,North America,NAC,2017.0,0.113,0.365,0.433,1.1,1.4,1.9
+Food Prices for Nutrition 2.1,North Macedonia,MKD,2017.0,0.096,0.389,0.434,2.6,16.8,20.1
+Food Prices for Nutrition 2.1,Norway,NOR,2017.0,0.15,0.382,0.446,0.3,0.5,0.6
+Food Prices for Nutrition 2.1,Pakistan,PAK,2017.0,0.209,0.53,0.928,0.3,40.9,81.0
+Food Prices for Nutrition 2.1,Panama,PAN,2017.0,0.138,0.394,0.516,2.2,12.1,17.5
+Food Prices for Nutrition 2.1,Paraguay,PRY,2017.0,0.162,0.662,0.585,0.5,24.4,19.9
+Food Prices for Nutrition 2.1,Peru,PER,2017.0,0.207,0.505,0.696,2.7,16.5,26.6
+Food Prices for Nutrition 2.1,Philippines,PHL,2017.0,0.176,0.43,0.586,6.9,53.1,70.1
+Food Prices for Nutrition 2.1,Poland,POL,2017.0,0.051,0.252,0.381,0.0,0.1,1.0
+Food Prices for Nutrition 2.1,Portugal,PRT,2017.0,0.046,0.203,0.278,0.1,0.7,1.1
+Food Prices for Nutrition 2.1,Romania,ROU,2017.0,0.046,0.205,0.273,0.9,8.0,11.9
+Food Prices for Nutrition 2.1,Russian Federation,RUS,2017.0,0.066,0.241,0.343,0.0,0.8,3.3
+Food Prices for Nutrition 2.1,Sao Tome and Principe,STP,2017.0,0.191,0.548,0.702,8.0,63.4,76.6
+Food Prices for Nutrition 2.1,Serbia,SRB,2017.0,0.09,0.398,0.608,3.2,14.3,27.2
+Food Prices for Nutrition 2.1,Seychelles,SYC,2017.0,0.128,0.437,0.807,0.1,2.5,9.3
+Food Prices for Nutrition 2.1,Slovak Republic,SVK,2017.0,0.052,0.285,0.434,0.1,1.4,2.1
+Food Prices for Nutrition 2.1,Slovenia,SVN,2017.0,0.061,0.284,0.394,0.0,0.0,0.1
+Food Prices for Nutrition 2.1,South Asia,SAS,2017.0,0.197,0.595,0.894,2.6,59.3,78.7
+Food Prices for Nutrition 2.1,Spain,ESP,2017.0,0.06,0.241,0.371,0.5,1.0,1.7
+Food Prices for Nutrition 2.1,St. Lucia,LCA,2017.0,0.591,1.492,1.836,4.6,16.7,20.9
+Food Prices for Nutrition 2.1,Suriname,SUR,2017.0,0.139,0.412,0.604,15.8,34.2,44.5
+Food Prices for Nutrition 2.1,Sweden,SWE,2017.0,0.108,0.329,0.417,0.2,0.4,0.6
+Food Prices for Nutrition 2.1,Switzerland,CHE,2017.0,0.055,0.278,0.333,0.0,0.0,0.0
+Food Prices for Nutrition 2.1,"Taiwan, China",TWN,2017.0,0.156,0.32,0.427,0.0,0.2,0.2
+Food Prices for Nutrition 2.1,Tajikistan,TJK,2017.0,0.362,0.932,1.203,2.2,30.8,47.2
+Food Prices for Nutrition 2.1,Thailand,THA,2017.0,0.173,0.476,0.656,0.0,7.0,20.5
+Food Prices for Nutrition 2.1,Trinidad and Tobago,TTO,2017.0,0.129,0.4,0.501,0.2,3.4,6.5
+Food Prices for Nutrition 2.1,Türkiye,TUR,2017.0,0.096,0.311,0.391,0.0,3.1,6.1
+Food Prices for Nutrition 2.1,United Arab Emirates,ARE,2017.0,0.101,0.245,0.374,0.0,0.0,0.1
+Food Prices for Nutrition 2.1,United Kingdom,GBR,2017.0,0.049,0.285,0.341,0.2,0.5,0.5
+Food Prices for Nutrition 2.1,United States,USA,2017.0,0.129,0.316,0.46,1.2,1.5,2.0
+Food Prices for Nutrition 2.1,Upper middle income,UMC,2017.0,0.166,0.481,0.625,1.2,11.2,17.3
+Food Prices for Nutrition 2.1,Uruguay,URY,2017.0,0.094,0.288,0.416,0.0,0.8,2.8
+Food Prices for Nutrition 2.1,Vietnam,VNM,2017.0,0.286,0.737,1.052,0.7,11.7,24.9
+Food Prices for Nutrition 2.1,West Bank and Gaza,PSE,2017.0,0.284,0.445,0.845,0.6,2.4,18.0
+Food Prices for Nutrition 2.1,WORLD,WLD,2017.0,0.212,0.591,0.808,4.9,32.0,43.7
