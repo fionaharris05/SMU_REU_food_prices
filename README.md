@@ -16,7 +16,11 @@ The results showed that Africa and parts of Asia are substantially disadvantaged
 
 ## Repository Structure
 data/: Contains the raw and cleaned datasets used in the project.
+
 notebooks/: Contains the Jupyter notebooks used for data cleaning, exploratory analysis, and visualization.
+
 figures/: Contains graphs, maps, and other visualizations created during the analysis.
+
 presentation/: Contains presentation materials related to the final project.
+
 README.md: Provides an overview of the project, research question, data, findings, and repository structure.
